@@ -1,10 +1,402 @@
 [
-{
-"name": "Restaurant Name",
-"coords": "29.123456, 47.123456",
-},
-{
-"name": "Another Restaurant",
-"coords": "29.654321, 47.654321",
-}
+  {
+    "name": "Al Jahra Restaurant - AJT001",
+    "coords": "29.3375,47.6581"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT002",
+    "coords": "29.3382,47.6593"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT003",
+    "coords": "29.3369,47.6575"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT004",
+    "coords": "29.3391,47.6602"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT005",
+    "coords": "29.3357,47.6564"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT006",
+    "coords": "29.3403,47.6615"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT007",
+    "coords": "29.3348,47.6553"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT008",
+    "coords": "29.3412,47.6627"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT009",
+    "coords": "29.3339,47.6542"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT010",
+    "coords": "29.3421,47.6639"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT011",
+    "coords": "29.3330,47.6531"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT012",
+    "coords": "29.3430,47.6651"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT013",
+    "coords": "29.3321,47.6520"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT014",
+    "coords": "29.3439,47.6663"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT015",
+    "coords": "29.3312,47.6509"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT016",
+    "coords": "29.3448,47.6675"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT017",
+    "coords": "29.3303,47.6498"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT018",
+    "coords": "29.3457,47.6687"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT019",
+    "coords": "29.3294,47.6487"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT020",
+    "coords": "29.3466,47.6699"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT021",
+    "coords": "29.3285,47.6476"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT022",
+    "coords": "29.3475,47.6711"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT023",
+    "coords": "29.3276,47.6465"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT024",
+    "coords": "29.3484,47.6723"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT025",
+    "coords": "29.3267,47.6454"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT026",
+    "coords": "29.3493,47.6735"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT027",
+    "coords": "29.3258,47.6443"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT028",
+    "coords": "29.3502,47.6747"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT029",
+    "coords": "29.3249,47.6432"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT030",
+    "coords": "29.3511,47.6759"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT031",
+    "coords": "29.3240,47.6421"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT032",
+    "coords": "29.3520,47.6771"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT033",
+    "coords": "29.3231,47.6410"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT034",
+    "coords": "29.3529,47.6783"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT035",
+    "coords": "29.3222,47.6399"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT036",
+    "coords": "29.3538,47.6795"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT037",
+    "coords": "29.3213,47.6388"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT038",
+    "coords": "29.3547,47.6807"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT039",
+    "coords": "29.3204,47.6377"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT040",
+    "coords": "29.3556,47.6819"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT041",
+    "coords": "29.3195,47.6366"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT042",
+    "coords": "29.3565,47.6831"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT043",
+    "coords": "29.3186,47.6355"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT044",
+    "coords": "29.3574,47.6843"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT045",
+    "coords": "29.3177,47.6344"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT046",
+    "coords": "29.3583,47.6855"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT047",
+    "coords": "29.3168,47.6333"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT048",
+    "coords": "29.3592,47.6867"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT049",
+    "coords": "29.3159,47.6322"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT050",
+    "coords": "29.3601,47.6879"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT051",
+    "coords": "29.3150,47.6311"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT052",
+    "coords": "29.3610,47.6891"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT053",
+    "coords": "29.3141,47.6300"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT054",
+    "coords": "29.3619,47.6903"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT055",
+    "coords": "29.3132,47.6289"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT056",
+    "coords": "29.3628,47.6915"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT057",
+    "coords": "29.3123,47.6278"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT058",
+    "coords": "29.3637,47.6927"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT059",
+    "coords": "29.3114,47.6267"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT060",
+    "coords": "29.3646,47.6939"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT061",
+    "coords": "29.3105,47.6256"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT062",
+    "coords": "29.3655,47.6951"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT063",
+    "coords": "29.3096,47.6245"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT064",
+    "coords": "29.3664,47.6963"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT065",
+    "coords": "29.3087,47.6234"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT066",
+    "coords": "29.3673,47.6975"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT067",
+    "coords": "29.3078,47.6223"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT068",
+    "coords": "29.3682,47.6987"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT069",
+    "coords": "29.3069,47.6212"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT070",
+    "coords": "29.3691,47.6999"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT071",
+    "coords": "29.3060,47.6201"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT072",
+    "coords": "29.3700,47.7011"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT073",
+    "coords": "29.3051,47.6190"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT074",
+    "coords": "29.3709,47.7023"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT075",
+    "coords": "29.3042,47.6179"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT076",
+    "coords": "29.3718,47.7035"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT077",
+    "coords": "29.3033,47.6168"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT078",
+    "coords": "29.3727,47.7047"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT079",
+    "coords": "29.3024,47.6157"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT080",
+    "coords": "29.3736,47.7059"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT081",
+    "coords": "29.3015,47.6146"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT082",
+    "coords": "29.3745,47.7071"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT083",
+    "coords": "29.3006,47.6135"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT084",
+    "coords": "29.3754,47.7083"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT085",
+    "coords": "29.2997,47.6124"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT086",
+    "coords": "29.3763,47.7095"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT087",
+    "coords": "29.2988,47.6113"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT088",
+    "coords": "29.3772,47.7107"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT089",
+    "coords": "29.2979,47.6102"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT090",
+    "coords": "29.3781,47.7119"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT091",
+    "coords": "29.2970,47.6091"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT092",
+    "coords": "29.3790,47.7131"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT093",
+    "coords": "29.2961,47.6080"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT094",
+    "coords": "29.3799,47.7143"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT095",
+    "coords": "29.2952,47.6069"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT096",
+    "coords": "29.3808,47.7155"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT097",
+    "coords": "29.2943,47.6058"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT098",
+    "coords": "29.3817,47.7167"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT099",
+    "coords": "29.2934,47.6047"
+  },
+  {
+    "name": "Al Jahra Restaurant - AJT100",
+    "coords": "29.3826,47.7179"
+  }
 ]
